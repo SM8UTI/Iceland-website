@@ -10,6 +10,8 @@
 
 ### 💻 Demo : [GO](https://sm8uti.github.io/Iceland-website/)
 
+### Time : 10 Hour +
+
 <br/>
 
 ## 👩‍💻 Tech Stack
